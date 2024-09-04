@@ -1,0 +1,11 @@
+body {
+  background-color: black !important;
+  color: white !important;
+}
+/* 예시: 헤더 높이를 고려한 패딩 추가 */
+body {
+  padding-top: 70px; /* 고정 헤더의 높이 */
+}
+body {
+  cursor: auto; /* 기본 커서가 보이도록 설정 */
+}

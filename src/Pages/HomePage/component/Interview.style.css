@@ -1,0 +1,28 @@
+.title-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 550px;
+  font-size: 55px;
+}
+.button-container {
+  display: flex;
+  justify-content: center;
+}
+.button-list {
+  width: 150px;
+  font-weight: 600;
+  font-size: 20px;
+  height: 60px;
+  border-radius: 10px;
+  margin: 30px;
+}
+.description {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  width: 70%;
+}
+.description-container {
+  display: flex;
+  justify-content: center;
+}
